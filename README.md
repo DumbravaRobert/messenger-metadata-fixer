@@ -57,11 +57,12 @@ $Destination = "<move_destination_path>"    # where all media will be moved
 
 ## Step-by-step Instructions
 
-1. Request and download a copy of your Facebook data (**HTML format**).  
-2. Download `messenger_exif_html.py` and `move-media.ps1` from this repo.  
-3. Download [ExifTool](https://exiftool.org/) and place it in the same directory as the scripts.  
-4. Run `messenger_exif_html.py`.  ( if needed, can be started with --debug for more info). 
-5. Run `move-media.ps1`.  
+1. Request and download a copy of your Facebook data (**HTML format**).
+2. Extract your data  
+3. Download `messenger_exif_html.py` and `move-media.ps1` from this repo.  
+4. Download [ExifTool](https://exiftool.org/) and place it in the same directory as the scripts.  
+5. Run `messenger_exif_html.py`.  ( if needed, can be started with --debug for more info). 
+6. Run `move-media.ps1`.  
 
 
 ## Summary fields explained
